@@ -136,13 +136,13 @@
       h3 Gitリポジトリの作成
       h4 Processing持ってる人
       ul
-        li 新規プロジェクトを作成、保存
+        li 新規プロジェクトを作成、保存(エディタは開いたままで)
         li 保存先のフォルダーをエクスプローラーで開く
       h4 Processingない人
       ul
         li エクスプローラーで新規フォルダを作成
         li フォルダ名をgit-testにする(名前は何でもいいよ🐇)
-        li git-testを開く
+        li git-testを開く(エクスプローラーはまだ閉じないでね)
         li sample.txt(名前は何でも)を作成
         li sample.txtをテキストエディタで開く(VSCode使ってみてもいいよ)
         
