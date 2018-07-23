@@ -1,18 +1,23 @@
-# Reveal Boilerplate
+# git-kouza
 
-## Require
+> Nuxt.js project
 
-* yarn
+## Build Setup
 
-## Get started
+``` bash
+# install dependencies
+$ npm install # Or yarn install
 
-1.  Set `repository`
-1.  Set `build` URL
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-## Development
+# build for production and launch server
+$ npm run build
+$ npm start
 
-`yarn start`
+# generate static project
+$ npm run generate
+```
 
-## Deployment
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
-`yarn deploy`
